@@ -24,7 +24,7 @@ lines.
 **mandatory
 
 
-PYTHON AND STATISTICAL MODELLING LAB – Practice Questions
+##Practice Questions
 1. Write a program to find the largest of three numbers.
 2. Write a program to print the multiplication table of a number n.
 3. Write a program to find Surface area and volume of a cylinder using function.
